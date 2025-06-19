@@ -1,0 +1,1 @@
+// Interface admin sécurisée avec mot de passe

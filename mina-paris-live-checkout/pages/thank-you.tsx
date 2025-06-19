@@ -1,0 +1,1 @@
+// Page de confirmation après paiement
